@@ -4,6 +4,7 @@ Projects and documents from our first ever InfluxData Hackathon!
 # List of Project Ideas (open an issue for your idea, and add it here!)
 * [Telegraf plug-in for fitbit heart rate data.](https://github.com/influxdata/hackathon-2017-sf/issues/1) (Deniz)
 * [IoT wind sensor using the particle electron.(on GSM!)](https://github.com/influxdata/hackathon-2017-sf/issues/2) (Deniz)
+* [Heap Map Chart for Chronograf](https://github.com/influxdata/hackathon-2017-sf/issues/3)
 
 # Hackathon Schedule
 * 09:00-09:15: pitch your idea
