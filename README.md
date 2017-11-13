@@ -11,3 +11,6 @@ Projects and documents from our first ever InfluxData Hackathon!
 * 09:30-17:00: hack!
 * 17:00-17:30: judges review projects
 * 17:30-18:00: 3 minute presentation to present your hack, our panel of judges honor the winners.
+
+# Chatroom
+* Visit [our Gitter chatroom](https://gitter.im/influxathon/hackathon_2017_sf) to connect with other participants, brainstorm, and collaborate!
