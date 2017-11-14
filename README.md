@@ -14,5 +14,15 @@ Projects and documents from our first ever InfluxData Hackathon!
 * 17:00-17:15: judges confer amongst themselves
 * 17:15-17:35: judges give feedback & compliments
 
+# Encouragements
+* Use of one or more TICK stack component(s)
+* Creative use of TICK stack component(s)
+* Cross-team collaboration
+
+# Judgment Criteria
+* Originality (1 = interesting; 5 = mind-blowing)
+* Prototype (1 = concept; 5 = ship it)
+* Value (1 = yay participation; 5 = $$$)
+
 # Chatroom
 * Visit [our Gitter chatroom](https://gitter.im/influxathon/hackathon_2017_sf) to connect with other participants, brainstorm, and collaborate!
