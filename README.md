@@ -10,9 +10,9 @@ Projects and documents from our first ever InfluxData Hackathon!
 * 09:00-09:15: pitch your idea
 * 09:15-09:30: discuss & choose teams
 * 09:30-16:30: hack!
-* 16:30-17:00: 3 minute presentation of your project to an esteemed panel of judges
-* 17:00-17:15: judges confer amongst themselves
-* 17:15-17:35: judges give feedback & compliments
+* 17:30-18:00: 3 minute presentation of your project to an esteemed panel of judges
+* 18:00-18:15: judges confer amongst themselves
+* 18:15-18:30: judges give feedback & compliments
 
 # Encouragements
 * Use of one or more TICK stack component(s)
